@@ -4,7 +4,7 @@ function App() {
 
   return (
     <>
-    <div>Work in progress!</div>
+      <div>Work in progress!</div>
     </>
   )
 }
